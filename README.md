@@ -31,7 +31,7 @@ Requests is designed to be user-friendly and makes interacting with web services
 https://github.com/mohamed-shafi-w/codeclause/assets/171848531/fde9d881-07a1-4c77-85d3-39f851426bc3
 
 ## License
-This project is licensed under MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 * [Tkinter](https://docs.python.org/3/library/tkinter.html) - for the GUI
